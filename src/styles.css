@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+body{
+  background-image: url('F:/AngularProjectStageOne/src/assets/images/img2.jpg');
+  background-color: rgba(0, 0, 0, 0.5);
+  background-size: cover;
+  background-position: center center;
+  position: relative;
+  top: 0;
+  bottom: 0;
+  height: 100vh;
+  z-index: -10;
+}
